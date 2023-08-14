@@ -1,0 +1,6 @@
+botbuilder
+botbuilder-core
+azure-mgmt-resource
+azure-mgmt-web
+azure-mgmt-consumption
+azure-identity
